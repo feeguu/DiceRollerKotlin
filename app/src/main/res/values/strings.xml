@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">DiceRoller</string>
     <string name="roll_label">ROLL</string>
+    <string name="dice_roller_text">DICE ROLLER</string>
 </resources>
